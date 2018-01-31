@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 
 # shellcheck source=init.sh
-source $SCRIPT_DIR/init.sh
+source ../init.sh
 
 checkout_source
 # Needs: SOURCE_URI, SOURCE_REF
