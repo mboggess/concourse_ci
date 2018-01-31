@@ -1,4 +1,4 @@
-#!/usr/bin/env bash
+#!/bin/bash
 # IFS=$'\n\t'
 
 function contains_element () {
